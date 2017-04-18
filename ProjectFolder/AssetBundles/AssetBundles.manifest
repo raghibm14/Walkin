@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 4011040167
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ifmrb
+      Dependencies: {}
