@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/StartUI.unity
+- path: Assets/Scenes/RoutePlay.unity
   isLoaded: 1
   isActive: 1

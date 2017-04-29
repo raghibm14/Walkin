@@ -102,6 +102,7 @@ public class AlgorithmMotor : MonoBehaviour
     {
         pos1 = from.value;
         transform.position = allv[pos1].transform.position;
+        transform.rotation = allv[pos1].transform.rotation;
         
     }
     public void changespeed()
