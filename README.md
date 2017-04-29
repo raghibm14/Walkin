@@ -1,5 +1,5 @@
 # Walkin
-Walkin (read Walk in) is a 3D visualization tool that helps the user in visualizing the shortest path he/she needs to walk through to reach from one point in a building to the other. The tool works perfectly for any 3D model of a building imported with a few well defined tweaking.
+Walkin (read Walk in) is a 3D visualization tool that helps the user in visualizing the shortest path he/she needs to walk through to reach from one point in a building to the other. The tool works perfectly for any 3D model of a building imported with a few well defined tweaking. It has been developed using Unity Game Engine.
 
 The Project Folder is present in the repository and all the basic files can be checked here for reference. Unitypackage for the project can be used to extend the work.
 
