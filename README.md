@@ -10,4 +10,4 @@ Walkin needs the 3D objects to be uploaded to be in the form of AssetBundles. Im
 Visit: 'https://drive.google.com/open?id=0B7-5956pGxPVdkFXNU9UZEIybDg' and see how it works.
 
 ## Wanna try on your own?
-Download the folder 'Built app'. This folder has the .exe file. Now download the 'AssetBundles' folder inside 'ProjectFolder'. Copy the link to folder 'Assetbundles'. Paste it in a browser. Copy link address of 'ifmrbng1' (Have a look at the demo video once to counter-check how the url should look like). Run the .exe file and paste this as the url there. Write 'ifmrbuilding' as resource name. You are good to go now! 
+Download the folder 'Built app'. This folder has the .exe file. Now download the 'AssetBundles' folder inside 'ProjectFolder'. Copy the link to folder 'Assetbundles' download on your local machine. Paste it in a browser. Copy link address of 'ifmrbng1' (Have a look at the demo video once to counter-check how the url should look like). Run the .exe file and paste this as the url there. Write 'ifmrbuilding' as resource name. You are good to go now! 
